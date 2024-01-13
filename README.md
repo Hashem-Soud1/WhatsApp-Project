@@ -1,6 +1,6 @@
 #  Whats App
 
-"An application that is simple and similar to WhatsApp use **java** languge"
+An application that is simple and similar to WhatsApp use **java** language.
 
 
 ## Technologies Used
